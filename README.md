@@ -1,2 +1,2 @@
-# intro_sklearn_2022
+# Intro sklearn
 Breve intro a sklearn a dar en PyDay Santa Fe 2022
